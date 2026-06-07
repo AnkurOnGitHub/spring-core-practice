@@ -4,6 +4,6 @@ public class Mail implements NotifyService{
 
     @Override
     public void sendNotification() {
-        System.out.println("Send Notification of Order");
+        System.out.println("Send Notification of Order on Mail");
     }
 }
